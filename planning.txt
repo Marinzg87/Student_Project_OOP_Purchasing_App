@@ -1,0 +1,7 @@
+User can see a list of items
+User can order an item
+User can get a receipt
+
+Classes:
+Item
+Receipt
